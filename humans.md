@@ -10,12 +10,20 @@
 ### Participants
 
 * Stelian Curceac 
+* Anna Zanchetta - github: [@ciupava](https://github.com/ciupava)
+* Jim Maas
+* Odín Morón García
+* Arielle Bennett
+* Harriet McCann
+* Bea Costa Gomes - github: [@mooniean](https://github.com/mooniean/), twitter: [@mooniean](https://twitter.com/mooniean)
+* Evangeline Corcoran
+* Man Luo 
+* Beth Nichols
+* Fernando Benitez | mbenitezp
 * 
 * 
 * 
-* 
-* 
-* 
+* Hadrien Salat
 * 
 * 
 * 
@@ -57,7 +65,7 @@
 * Ed Emmott   - github: [@edemmott] (https://github.com/edemmott/)
 * Kamal - github: [@kamalfartiyal84](https://github.com/kamalfartiyal84/)
 * Divya Venkatesh - github: [@delfinut](https://github.com/delfinut/)
-cava-github.............
+* Florian - github: [@wcc19940308](https://github.com/wcc19940308/)
 
 ## Mozilla Science Lab Fellows
 
